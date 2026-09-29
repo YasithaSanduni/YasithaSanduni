@@ -4,7 +4,7 @@
 
 ### Information Technology Undergraduate @ SLIIT
 
-**Aspiring Business Analyst & Project Management Professional**
+**Aspiring Business Analyst, Business Intelligence & Project Management Professional**
 
 <br>
 
@@ -22,13 +22,13 @@
 
 ## 👩‍💻 About Me
 
-I am a motivated **third-year Information Technology undergraduate at SLIIT**, with a strong interest in **Business Analysis and Project Management**.
+I am a motivated third-year Information Technology undergraduate at SLIIT, with a strong interest in Business Analysis, Business Intelligence, and Project Management.**.
 
-I enjoy understanding business requirements, analysing processes, documenting solutions, coordinating project activities, and working with both business and technical teams to develop practical technology solutions.
+I enjoy understanding business requirements, analyzing processes, documenting solutions, interpreting data to generate insights, creating dashboards and reports, coordinating project activities, and working with both business and technical teams to develop practical technology solutions.
 
 ### 🌱 Currently
 
-* 💼 Interested in **Business Analysis & Project Management**
+* 💼 Interested in Business Analysis, Business Intelligence & Project Management**
 * 📊 Using **Power BI for Data Analysis & Reporting**
 * 🔄 Developing knowledge in **Agile Methodologies & SDLC**
 * 💻 Building practical projects using **React.js, Spring Boot & Node.js**
