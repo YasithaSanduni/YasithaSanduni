@@ -28,7 +28,7 @@ I enjoy understanding business requirements, analyzing processes, documenting so
 
 ### 🌱 Currently
 
-- 💼 **Interested in Business Analysis, Business Intelligence & Project Management**
+* 💼 **Interested in Business Analysis, Business Intelligence & Project Management**
 * 📊 Using **Power BI for Data Analysis & Reporting**
 * 🔄 Developing knowledge in **Agile Methodologies & SDLC**
 * 💻 Building practical projects using **React.js, Spring Boot & Node.js**
